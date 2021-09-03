@@ -102,4 +102,9 @@ h2 {
 form {
   display: table;
 }
+
+#piclink {
+  text-align: center;
+}
+
 <!-- css help from w3schools -->
